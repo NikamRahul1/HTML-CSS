@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
-
-  <style>
-    .subscribe-button {
+ .subscribe-button {
         background-color: rgb(200, 0, 0);
         color: white;
         border: none;
@@ -132,42 +124,3 @@
       border-radius: 18px;
       border-color: rgb(10, 102, 194)
     }
-
-  </style>
-
-</head>
-<body>
-  
-  <button class="subscribe-button">SUBSCRIBE</button>
-  <button class="join-button">JOIN</button>
-  <button class="tweet-button">Tweet</button>
-
-<br>
-<h3>Exercises:</h3>
-<br>
-
-2a:
-<Button class="uber-button">Request now</Button>
-
-<br><br>
-
-2b:
-<button class="amazon-button">Add to Cart</button>
-
-<br><br>
-
-2c:
-<button class="github-button">Sign up</button>
-
-<br><br>
-
-2d:
-<button class="bootstrap-button1">Get started</button> <button class="bootstrap-button2">Download</button>
-
-<br><br>
-
-2e: 
-<button class="linkedin-button1">Apply on company website</button>
-<button class="linkedin-button2">Save</button>
-</body>
-</html>
